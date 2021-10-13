@@ -1,4 +1,4 @@
-# rabbitmq_ac_5
+# rabbitmq
 
 ## Requirements
 - Install RabbitMQ for your OS [here](https://www.rabbitmq.com/download.html).
